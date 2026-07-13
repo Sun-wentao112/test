@@ -145,3 +145,17 @@ def convert_objectid(data):
 
 if __name__ == '__main__':
     scrape_website(7)  # 爬取前7页数据
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
